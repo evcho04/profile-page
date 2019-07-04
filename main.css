@@ -17,6 +17,7 @@
 	grid-column-end:2;
 	background-image:url(https://eva.gofullfat.com/wp-content/uploads/2019/07/51734037_2403814406320214_1531539291409219584_o-576x1024.jpg);
 	background-repeat: no-repeat;
+	padding:80px 0;
 
  }
 
@@ -24,6 +25,7 @@
 	grid-column-start:2;
 	grid-column-end:3;
 	background-color:yellow;
+	padding:80px 0;
 }
 
 	/*text*/
@@ -61,7 +63,7 @@ p{
 .footer{
 grid-column-start:1;
 grid-column-end:3;
-padding:0 30px;
+padding:50px 30px;
 margin:0 20px;
 
 }
